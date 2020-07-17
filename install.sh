@@ -1,3 +1,5 @@
+#!/bin/bash
+
 sudo apt install libpng-dev -y
 sudo apt-get install python-gpiozero -y
 sudo apt-get install python-pkg-resources python3-pkg-resources -y
